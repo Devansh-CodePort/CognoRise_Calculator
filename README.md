@@ -1,1 +1,2 @@
 # CognoRise_Calculator
+This code implements a simple command-line calculator in Java. The user is prompted to enter two numbers and choose an arithmetic operation (addition, subtraction, multiplication, division). The program performs the selected operation and displays the result. It includes error handling for invalid inputs and division by zero. The user can perform multiple calculations in a single run by choosing to continue or exit after each operation.
